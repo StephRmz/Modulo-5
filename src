@@ -1,7 +1,0 @@
-// ./src/index.js
-function myFunction() {
-  //
-  console.log("Función de JavaScript ejecutada.");
-}
-
-myFunction();
